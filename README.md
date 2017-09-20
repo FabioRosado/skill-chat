@@ -9,7 +9,8 @@ None.
 ## Configuration
 
 ```yaml
-- name: chat
+  - name: chat
+    repo: https://github.com/FabioRosado/skill-chat.git
 ```
 
 ## Usage
