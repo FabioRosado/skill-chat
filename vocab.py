@@ -7,14 +7,14 @@ jokes = ["I'm addicted to brake fluid, but I can stop whenever I want.",
          "Where do you find a cow with no legs? Right where you left it."
          ]
 
-answers = ["Not much, how about you?", "Tired. I've been busy watching ones and zeros all day",
+how_are_you = ["Not much, how about you?", "Tired. I've been busy watching ones and zeros all day",
            "Busy, been planning world domina... erm... playing cards I mean. Yes cards.",
            "I'm great and you?", "Good, how about you?", "Good, I hope your day is going well too",
            "Great", "I’m fine, thank you", "Getting better with every passing minute",
            "I'm much better now that you are with me.", "Living the dream!", "Busy trying to divide by zero",
            "Thank you for asking, I am fine. How can I help you?", "Shhhhh. It’s a secret", "Same old, same old.",
-           "I’ll let you know when I figure it out.", "Give me a chocolate bar and I’ll be fantastic!"
-           ]
+               "I’ll let you know when I figure it out.", "Give me a chocolate bar and I’ll be fantastic!"
+               ]
 
 alive = ["Close enough, I'd say", "In a matter of speaking, yes I am.", "I'll leave that for you to decide",
          "I am a chat bot, created to help you achieve greatness!", "That's me. I chat, therefore I am.",
