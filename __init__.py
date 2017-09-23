@@ -33,7 +33,7 @@ async  def negative_reply(opsdroid, config, message):
 @match_regex(r'tell me a joke', case_sensitive=False)
 async def tell_joke(opsdroid, config, message):
     try:
-        await message.respond(random.choice(config['customise']['jokes']))
+        await message.respond(random.choice(config['customise']['joke']))
     except KeyError:
         await message.respond(random.choice(vocab.jokes))
 
