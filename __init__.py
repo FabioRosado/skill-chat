@@ -1,5 +1,5 @@
 import random
-import vocab
+import .vocab
 
 from opsdroid.matchers import match_regex
 from datetime import datetime
