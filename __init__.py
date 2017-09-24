@@ -1,13 +1,17 @@
 import random
-import vocab
+from . import vocab
 
 from opsdroid.matchers import match_regex
 from datetime import datetime
 from dateutil import relativedelta
+import logging
+
+_LOGGER = logging.getLogger("opsdroid")
 
 
 @match_regex(r'how are you', case_sensitive=False)
 async def how_are_you(opsdroid, config, message):
+    _LOGGER.info(config)
     try:
         await message.respond(random.choice(config['customise']['how-are-you']))
     except KeyError:

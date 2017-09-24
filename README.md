@@ -12,31 +12,8 @@ None.
 ```yaml
   - name: chat
     repo: https://github.com/FabioRosado/skill-chat.git
-#   # Optional (Allows customisation of default answers)
-#   customise:
-#     how-are-you:       # Customise  reply to "how are you"
-#       - Awesome!
-#       - Amazing :D
-#     jokes:             # Customise reply to "tell me a joke"
-#       - A funny joke
-#     positive-reply:    # Customise reply to positive answers given in how are you
-#       - That's awesome!
-#     negative-reply:    # Customise reply to negative answers given in how are you
-#       - I hope you feel better
-#     thank-you:         # Customise reply to "thank you"
-#       - You are welcome
-#     name:              # Customise reply to "what is your name"
-#       - I am opsdroid
-#       - I'm opsdroid
-#     alive-or-bot:      # Customise reply to "are you alive/bot/robot"
-#       - I am a robot
-#     sorry:             # Customise reply to "I'm sorry"
-#       - It's okay
-#     location:          # Customise reply to "where are you"
-#       - A city
-#       - Another location
-#      see:               # Customise reply to "what can you see"
-#       - The world
+    # Optional (Allows customisation of default answers)
+#   customise: !include customise.yaml
 ```
 
 

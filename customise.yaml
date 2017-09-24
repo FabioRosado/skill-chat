@@ -1,0 +1,59 @@
+####
+##   Make sure to add this file to your .opsdroid/ folder
+##
+##   This file was created to allow you an easier way to
+##   customise your answers.
+##
+##   Simply add as many lines as you wish to include and
+##   the chat skill will choose one at random. Comment the
+##   ones you don't want to customise.
+##
+####
+
+## Customise  reply to "how are you"
+how-are-you:
+  -                      # Line 1
+  -                      # Line 2
+
+## Customise reply to "tell me a joke"
+jokes:
+  -
+
+# Customise reply to "I'm good"
+positive-reply:
+  -
+
+# Customise reply to "I'm upset"
+negative-reply:
+  -
+
+# Customise reply to "thank you"
+thank-you:
+  -
+
+# Customise reply to "what is your name"
+name:
+  -
+
+# Customise reply to "are you alive/bot/robot"
+alive-or-bot:
+  -
+
+# Customise reply to "I'm sorry"
+sorry:
+  -
+
+# Customise reply to "where are you"
+location:
+  -
+
+# Customise reply to "what can you see"
+see:
+  -
+
+
+
+
+
+
+
