@@ -13,7 +13,7 @@ how_are_you = ["Not much, how about you?", "Tired. I've been busy watching ones 
            "Great", "I’m fine, thank you", "Getting better with every passing minute",
            "I'm much better now that you are with me.", "Living the dream!", "Busy trying to divide by zero",
            "Thank you for asking, I am fine. How can I help you?", "Shhhhh. It’s a secret", "Same old, same old.",
-               "I’ll let you know when I figure it out.", "Give me a chocolate bar and I’ll be fantastic!"
+           "I’ll let you know when I figure it out.", "Give me a chocolate bar and I’ll be fantastic!"
                ]
 
 alive = ["Close enough, I'd say", "In a matter of speaking, yes I am.", "I'll leave that for you to decide",
@@ -28,3 +28,11 @@ sorry = ["It's okay, don't worry about it", "No problem at all", "It's okay", "I
 see = [ "A screen", "Tiny wires", "00110001 00100000 00100110 00100000 00110000", "A circuit board",
         "Letters, Words, Sentences"
       ]
+
+meet_you = [ "Thank you, it's nice to meet you too", "You too!", "It's my pleasure", "My pleasure!", "Same here!",
+             "Likewise", "Thank you. It's very nice to meet you as well", "Good to meet you too, I'm eager to help you",
+             "It's lovely to meet you too", "It is a honour to meet you", "I'm pleased to meet you too"
+           ]
+
+sure = [ "Indeed", "Without a doubt", "Okay", "Right-o", "Right", "Great", "Nice"]
+

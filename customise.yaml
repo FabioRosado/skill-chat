@@ -51,6 +51,42 @@ location:
 see:
   -
 
+# Customise reply to "Nice to meet you"
+meet-you:
+  -
+
+# Customise reply to "How/What do you look like"
+look-like:
+  -
+
+# Customise reply to "Which language do you speak"
+language:
+  -
+
+# Customise reply to "I love you"
+love:
+  -
+
+# Customise reply to "sure:
+sure:
+  -
+
+# Customise reply to "wow":
+wow:
+  -
+
+# Customise reply to "smile":
+smile:
+  -
+
+# Customise reply to "What are your hobbies"
+hobbies:
+  -
+
+# Customise reply to "I'm bored"
+bored:
+  -
+
 
 
 
